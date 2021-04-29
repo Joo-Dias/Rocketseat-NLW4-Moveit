@@ -20,7 +20,7 @@
   - [Next.js](https://nextjs.org/)
 
 ## 💾 Instalando os Programas Necessários
-  Para instalar os progrmas use esse comando:
+  Para instalar os programas use esse comando:
   ```
   yarn
   ```
